@@ -1,0 +1,23 @@
+{
+  "symbol": "ULTRACEMCO",
+  "timestamp": "20251025_144554",
+  "selected_features": [
+    7,
+    15,
+    10,
+    26,
+    5,
+    2,
+    3,
+    21,
+    13,
+    12,
+    29,
+    11,
+    24,
+    28,
+    23
+  ],
+  "xgb_model_path": "trained_models\\xgboost_ULTRACEMCO_20251025_144554.joblib",
+  "lstm_model_path": "trained_models\\lstm_ULTRACEMCO_20251025_144554.keras"
+}
